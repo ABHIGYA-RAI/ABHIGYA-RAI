@@ -29,6 +29,4 @@ Focused on machine learning, data analysis and backend development.
 
 ---
 
-## Links
 
-- GitHub: [ABHIGYA-RAI](https://github.com/ABHIGYA-RAI)
