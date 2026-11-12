@@ -12,8 +12,6 @@ I enjoy working across the ML development lifecycle — from data preprocessing 
 
 ## Technical Expertise
 
-
-
 ### Programming Languages
 
 <table>
@@ -34,8 +32,8 @@ I enjoy working across the ML development lifecycle — from data preprocessing 
 <td align="center" width="120"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48"/><br>Scikit-learn</td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br>PyTorch</td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br>TensorFlow</td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/numpy/013243" width="48"/><br>NumPy</td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/pandas/150458" width="48"/><br>Pandas</td>
+<td align="center" width="120"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWGhPXv4uHXhXPqe6TaZn212CSUTsSwA_zyEfe59N2ZjpkoNSlKjKCO5yI&s=10" width="48"/><br>NumPy</td>
+<td align="center" width="120"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3B4uddKsWsn2b6djQk2p_hCGRS0W10tQk3WKG3QDV_ZISxjRHHFiWaw&s=10" width="48"/><br>Pandas</td>
 </tr>
 </table>
 
@@ -43,10 +41,10 @@ I enjoy working across the ML development lifecycle — from data preprocessing 
 
 <table>
 <tr>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48"/><br>LangChain</td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48"/><br>Hugging Face</td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/ollama/000000" width="48"/><br>Ollama</td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48"/><br>Gemini API</td>
+<td align="center" width="140"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpTsiIylFW5Q7xp0fDc5ogQ3tW0VreFaNL20yuvBOLd0x4mQxLOg7kask&s=10" width="100"/><br>LangChain</td>
+<td align="center" width="140"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48"/><br>Hugging Face</td>
+<td align="center" width="140"><img src="https://whizi.io/ai-logos/ollama/icon.png" width="48"/><br>Ollama</td>
+<td align="center" width="140"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48"/><br>Gemini API</td>
 </tr>
 </table>
 
@@ -71,6 +69,8 @@ I enjoy working across the ML development lifecycle — from data preprocessing 
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=pycharm" width="48"/><br>PyCharm</td>
 </tr>
 </table>
+
+
 
 
 
