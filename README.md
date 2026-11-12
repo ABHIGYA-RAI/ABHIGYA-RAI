@@ -77,7 +77,7 @@ My work spans **Machine Learning, Data Science, Generative AI and Backend Develo
 
 ## Let's Connect
 
-I'm interested in opportunities to learn, collaborate and contribute to real-world projects in Machine Learning, Artificial Intelligence, Data Science, and Software Development.
+I'm interested in opportunities to learn, collaborate and contribute to real-world projects in Machine Learning, Artificial Intelligence, Data Science and Software Development.
 
 - **Portfolio:** [abhigya-rai.github.io/Portfolio-Website](https://abhigya-rai.github.io/Portfolio-Website/)
 - **LinkedIn:** (https://www.linkedin.com/in/abhigya-rai-6851773a7/)
