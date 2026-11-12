@@ -52,7 +52,7 @@ My work spans **Machine Learning, Data Science, Generative AI and Backend Develo
 <tr>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django</td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
-<td align="center" width="120"><img src="https://i.pinimg.com/736x/78/a4/11/78a4117e9a95e25cb8ef1333c955d603.jpg" width="48"/><br>RestAPI</td>
+<td align="center" width="120"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7lqf8hcQQZn_MHivrEGqW-yPngvFqtatii9Ss2XPiQ&s=10" width="48"/><br>RestAPI</td>
 
 </tr>
 </table>
