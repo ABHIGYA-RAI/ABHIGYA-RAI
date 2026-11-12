@@ -1,32 +1,47 @@
 # Abhigya Rai
+### | Machine Learning | Artificial Intelligence | Data Science
 
-Computer Science undergraduate.
-Focused on machine learning, data analysis and backend development.
+Computer Science undergraduate interested in building intelligent, data-driven applications that solve practical problems.
+
+My work spans **Machine Learning, Data Science, Generative AI, and Backend Development**, with an emphasis on translating technical concepts into functional applications.
+
+I enjoy working across the ML development lifecycle — from data preprocessing and exploratory analysis to model development, evaluation, and application integration.
+
+---
+
+
+## Technical Expertise
+
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=python,java,cs,js,html,css)](https://skillicons.dev)
+
+### Machine Learning & Data Science
+[![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,numpy,pandas)](https://skillicons.dev)
+
+### AI & LLM Engineering
+[![My Skills](https://skillicons.dev/icons?i=langchain,huggingface)](https://skillicons.dev)
+
+### Backend & Application Development
+[![My Skills](https://skillicons.dev/icons?i=django,mysql,fastapi,flask,streamlit)](https://skillicons.dev)
+
+### Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
+
+
 
 ---
 
 
 
-**Languages 
-[Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) [JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) [CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Let's Connect
+
+I'm interested in opportunities to learn, collaborate, and contribute to real-world projects in Machine Learning, Artificial Intelligence, Data Science, and Software Development.
+
+- **Portfolio:** [abhigya-rai.github.io/Portfolio-Website](https://abhigya-rai.github.io/Portfolio-Website/)
+- **LinkedIn:** (https://www.linkedin.com/in/abhigya-rai-6851773a7/)
+- **Email:** abhigyarai22@gmail.com
+- **GitHub:** [ABHIGYA-RAI](https://github.com/ABHIGYA-RAI)
 
 
-
-**Data Analysis & Processing**
-[Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) [NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) [Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-**Machine Learning & AI**
-[Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) [XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white) [NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge)
-
-
-
-**Application Development & Deployment**
-[Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) [Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) [GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-
----
 
 
