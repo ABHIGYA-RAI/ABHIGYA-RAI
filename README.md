@@ -3,21 +3,20 @@
 
 Computer Science undergraduate interested in building intelligent, data-driven applications that solve practical problems.
 
-My work spans **Machine Learning, Data Science, Generative AI, and Backend Development**, with an emphasis on translating technical concepts into functional applications.
+My work spans **Machine Learning, Data Science, Generative AI and Backend Development**.
 
-I enjoy working across the ML development lifecycle — from data preprocessing and exploratory analysis to model development, evaluation, and application integration.
+
 
 ---
 
 
-## Technical Expertise
+## Tech Stack
 
 ### Programming Languages
-
+<br>
 <table>
 <tr>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java</td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cs" width="48"/><br>C#</td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
@@ -25,46 +24,44 @@ I enjoy working across the ML development lifecycle — from data preprocessing 
 </tr>
 </table>
 
-### Machine Learning & Data Science
-
+### Machine Learning & Data Analysis
+<br>
 <table>
 <tr>
 <td align="center" width="120"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48"/><br>Scikit-learn</td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br>PyTorch</td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br>TensorFlow</td>
 <td align="center" width="120"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWGhPXv4uHXhXPqe6TaZn212CSUTsSwA_zyEfe59N2ZjpkoNSlKjKCO5yI&s=10" width="48"/><br>NumPy</td>
 <td align="center" width="120"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3B4uddKsWsn2b6djQk2p_hCGRS0W10tQk3WKG3QDV_ZISxjRHHFiWaw&s=10" width="48"/><br>Pandas</td>
 </tr>
 </table>
 
-### AI & LLM Engineering
-
+### Generative AI
+<br>
 <table>
 <tr>
 <td align="center" width="140"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpTsiIylFW5Q7xp0fDc5ogQ3tW0VreFaNL20yuvBOLd0x4mQxLOg7kask&s=10" width="100"/><br>LangChain</td>
 <td align="center" width="140"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48"/><br>Hugging Face</td>
 <td align="center" width="140"><img src="https://whizi.io/ai-logos/ollama/icon.png" width="48"/><br>Ollama</td>
-<td align="center" width="140"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48"/><br>Gemini API</td>
+<td align="center" width="140"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48"/><br>Gemini</td>
 </tr>
 </table>
 
-### Backend & Application Development
-
+### Backend Development
+<br>
 <table>
 <tr>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django</td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/fastapi/009688" width="48"/><br>FastAPI</td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48"/><br>Streamlit</td>
+<td align="center" width="120"><img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" width="48"/><br>RestAPI</td>
+
 </tr>
 </table>
 
 ### Tools & Platforms
-
+<br>
 <table>
 <tr>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=pycharm" width="48"/><br>PyCharm</td>
 </tr>
@@ -80,7 +77,7 @@ I enjoy working across the ML development lifecycle — from data preprocessing 
 
 ## Let's Connect
 
-I'm interested in opportunities to learn, collaborate, and contribute to real-world projects in Machine Learning, Artificial Intelligence, Data Science, and Software Development.
+I'm interested in opportunities to learn, collaborate and contribute to real-world projects in Machine Learning, Artificial Intelligence, Data Science, and Software Development.
 
 - **Portfolio:** [abhigya-rai.github.io/Portfolio-Website](https://abhigya-rai.github.io/Portfolio-Website/)
 - **LinkedIn:** (https://www.linkedin.com/in/abhigya-rai-6851773a7/)
